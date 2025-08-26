@@ -1,1 +1,1 @@
-Hi this is my sample
+Hi this is sample my repository for Git tutorial
